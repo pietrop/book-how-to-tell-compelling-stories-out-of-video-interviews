@@ -1,0 +1,19 @@
+{
+  "name": "book-how-to-tell-compelling-stories-out-of-video-interviews",
+  "version": "1.0.0",
+  "description": "_**Disclaimer**: this book is a work in progress. It is_ [_hosted on gitbooks_](https://pietropassarelli.gitbooks.io/how-to-tell-compelling-stories-out-of-video-inter/content/)_. If you like it and want to contribute to it, you can use_ [_gitbooks commenting features_](https://www.gitbook.com/blog/features/discussions)_,_ [ _change request_](https://help.gitbook.com/books/what-are-change-requests.html) _or just reach out at_ [_pietro.passarelli@gmail.com_](https://github.com/pietrop/book-how-to-tell-compelling-stories-out-of-video-interviews/tree/9f3e044d19f5954d4b91e217e3d3670ebb8e471b/pietro.passarelli@gmail.com)_._",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pietrop/book-how-to-tell-compelling-stories-out-of-video-interviews.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pietrop/book-how-to-tell-compelling-stories-out-of-video-interviews/issues"
+  },
+  "homepage": "https://github.com/pietrop/book-how-to-tell-compelling-stories-out-of-video-interviews#readme"
+}
